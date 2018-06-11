@@ -145,7 +145,7 @@ p {
         background: #efc558 url('../images/bg8.jpg') bottom left no-repeat;
         background-size: contain;
         width: 100%;
-        padding-bottom: 35px;
+        padding-bottom: 65px;
         height: auto;
     }
 }
@@ -154,7 +154,7 @@ p {
     .s-six-a {
         background: #efc558 url('../images/bg8.jpg') bottom left no-repeat;
         background-size: contain;
-        padding-bottom: 25px;
+        padding-bottom: 35px;
         height: auto;
     }
 }
@@ -163,7 +163,7 @@ p {
     .hero-banner2 {
         background: #fff;
         width: 100%;
-        height: 500px;
+        height: 450px;
         position: relative;
     }
 }
