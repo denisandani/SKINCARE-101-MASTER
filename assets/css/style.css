@@ -392,9 +392,9 @@ p {
     
     .komen2 {
         background: url('../images/7-bgpertimbangan2.png') bottom left no-repeat;
-        background-size: cover;
+        background-size: contain;
         width: 455px;
-        height: 550px;
+        height: 550;
         padding: 15px 30px 50px 30px;
         margin-top: 130px;
     }
