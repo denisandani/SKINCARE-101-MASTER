@@ -477,7 +477,7 @@ p {
     .komen {
         background: url('../images/7-pertimbangan1.png') bottom center no-repeat;
         background-size: cover;
-        width: 340px;
+        width: 100%;
         height: auto;
         padding: 15px 15px 55px 15px;
         margin-top: 20px;
@@ -488,7 +488,7 @@ p {
     .komen2 {
         background: url('../images/7-pertimbangan2.png') bottom center no-repeat;
         background-size: cover;
-        width: 330px;
+        width: 100%;
         height: auto;
         padding: 15px 15px 55px 15px;
         margin-top: 20px;
