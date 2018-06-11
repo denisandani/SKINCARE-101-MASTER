@@ -382,9 +382,9 @@ p {
     }
 
     .komen {
-        background: url('../images/7-bgpertimbangan1.png') top left no-repeat;
+        background: url('../images/7-bgpertimbangan1.png') bottom left no-repeat;
         background-size: cover;
-        width: 550px;
+        width: 500px;
         height: auto;
         padding: 15px 30px 30px 30px;
         margin-top: 130px;
